@@ -193,6 +193,7 @@ img{
 }
 .home__data{
   align-self: center;
+  margin-bottom: 2px;
 }
 .home__title{
   font-size: var(--big-font-size);
@@ -347,7 +348,7 @@ img{
 
 /* ===== FOOTER =====*/
 .footer{
-  background-color: var(--second-color);
+  background-color: dodgerblue;
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
