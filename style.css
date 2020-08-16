@@ -410,16 +410,11 @@ margin-top: 2px;
     padding-bottom: 0rem;
     flex-direction: row;
     align-self: flex-end;
-    margin-bottom: -1rem;
-    margin-top: -2rem;
+    margin-bottom: -5rem;
   }
   .home__social-icon{
     margin-bottom: 0;
     margin-right: var(--mb-4);
-  }
-  .home__img{
-    width: 457px;
-    bottom: 15%;
   }
 
   .about__container, .skills__container{
