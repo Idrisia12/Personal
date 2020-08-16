@@ -81,8 +81,9 @@ img{
   position: relative;
   font-size: var(--h2-font-size);
   color: var(--first-color);
-  margin-top: var(--mb-3);
+  margin-top: var(--mb-2);
   margin-bottom: var(--mb-4);
+  padding-top: 5px;
   text-align: center;
 }
 .section-title::after{
