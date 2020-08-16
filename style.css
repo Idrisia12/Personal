@@ -207,6 +207,7 @@ img{
   flex-direction: column;
   display: inline;
   padding-top: 3px;
+  margin-bottom: 3px;
 }
 .home__social-icon{
   width: max-content;
