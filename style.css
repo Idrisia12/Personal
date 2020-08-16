@@ -407,7 +407,7 @@ margin-top: 2px;
   }
   .home__social{
     padding-top: 0;
-    padding-bottom: 2.5rem;
+    padding-bottom: 0rem;
     flex-direction: row;
     align-self: flex-end;
   }
