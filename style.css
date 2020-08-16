@@ -206,8 +206,8 @@ img{
   display: flex;
   flex-direction: column;
   display: inline;
-  padding-top: 3px;
-  margin-bottom: 3px;
+  padding-top: 30px;
+  margin-bottom: 0px;
 }
 .home__social-icon{
   width: max-content;
@@ -254,7 +254,7 @@ img{
 }
 
 #about{
-margin-top: 8px;
+margin-top: 2px;
 }
 
 /* ===== SKILLS =====*/
