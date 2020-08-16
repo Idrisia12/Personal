@@ -205,7 +205,7 @@ img{
   display: flex;
   flex-direction: column;
   display: inline;
-  padding-top: 30px;
+  padding-top: -30px;
   margin-bottom: 0px;
 }
 .home__social-icon{
@@ -215,12 +215,6 @@ img{
 }
 .home__social-icon:hover{
   color: var(--first-color);
-}
-.home__img{
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  width: 295px;
 }
 
 /*BUTTONS*/
@@ -351,7 +345,7 @@ margin-top: 2px;
 
 /* ===== FOOTER =====*/
 .footer{
-  background-color: dodgerblue;
+  background-color: blue;
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
