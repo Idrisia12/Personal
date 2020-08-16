@@ -77,6 +77,10 @@ img{
   display: block;
 }
 
+li{
+  display: inline;
+}
+
 /*===== CLASS CSS ===== */
 .section-title{
   position: relative;
