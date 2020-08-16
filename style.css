@@ -204,11 +204,12 @@ img{
 .home__social{
   display: flex;
   flex-direction: column;
-  margin-top: 10px;
+  margin-bottom: -10px;
+  display: inline;
 }
 .home__social-icon{
   width: max-content;
-  margin-top: 10px;
+  margin-bottom-: 10px;
   font-size: 1.5rem;
   color: var(--second-color);
 }
