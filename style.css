@@ -207,7 +207,7 @@ img{
 }
 .home__social-icon{
   width: max-content;
-  margin-top: -4px;
+  margin-top: -20px;
   font-size: 1.5rem;
   color: var(--second-color);
 }
