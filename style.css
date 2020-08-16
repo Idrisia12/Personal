@@ -400,17 +400,18 @@ margin-top: 2px;
   }
 
   .home{
-    height: 100vh;
+    height: 80vh;
   }
   .home__data{
     align-self: flex-end;
+    margin-bottom: 2px;
   }
   .home__social{
     padding-top: 0;
     padding-bottom: 0rem;
     flex-direction: row;
     align-self: flex-end;
-    margin-bottom: -5rem;
+    margin-bottom: -5px;
   }
   .home__social-icon{
     margin-bottom: 0;
