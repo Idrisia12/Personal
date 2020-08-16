@@ -205,12 +205,11 @@ img{
 .home__social{
   display: flex;
   flex-direction: column;
-  margin-bottom: -10px;
   display: inline;
+  padding-top: 3px;
 }
 .home__social-icon{
   width: max-content;
-  margin-bottom-: 10px;
   font-size: 1.5rem;
   color: var(--second-color);
 }
