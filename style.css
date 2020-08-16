@@ -67,6 +67,7 @@ ul{
   margin: 0;
   padding: 0;
   list-style: none;
+  display: inline;
 }
 a{
   text-decoration: none;
@@ -77,9 +78,7 @@ img{
   display: block;
 }
 
-li{
-  display: inline;
-}
+
 
 /*===== CLASS CSS ===== */
 .section-title{
@@ -306,7 +305,7 @@ li{
   width: 65%;
 }
 .skills__ux{
-  width: 85%;
+  width: 55%;
 }
 .skills__img{
   border-radius: .5rem;
