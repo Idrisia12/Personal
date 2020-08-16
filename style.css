@@ -193,6 +193,7 @@ img{
 }
 .home__data{
   align-self: center;
+   margin-bottom: -10px;
 }
 .home__title{
   font-size: var(--big-font-size);
@@ -205,8 +206,7 @@ img{
   display: flex;
   flex-direction: column;
   display: inline;
-  padding-top: -30px;
-  margin-bottom: 0px;
+  margin-bottom: -10px;
 }
 .home__social-icon{
   width: max-content;
