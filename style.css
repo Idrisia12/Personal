@@ -193,7 +193,7 @@ img{
 }
 .home__data{
   align-self: center;
-   margin-bottom: -10px;
+   margin-bottom: 2px;
 }
 .home__title{
   font-size: var(--big-font-size);
