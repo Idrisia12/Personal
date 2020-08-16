@@ -330,7 +330,7 @@ img{
   font-weight: var(--font-semi);
   padding: 1rem;
   border-radius: .5rem;
-  border: 1.5px solid var(--second-color);
+  border: 1.5px solid dodgerblue;
   outline: none;
   margin-bottom: var(--mb-4);
 }
