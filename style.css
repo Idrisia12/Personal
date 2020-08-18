@@ -306,6 +306,15 @@ img{
 .skills__git{
   width: 50%;
 }
+.skills_code{
+  width: 75%;
+}
+.skills_paint{
+   width: 55%;
+}
+.skills_laptop{
+   width: 50%;
+}
 .skills__img{
   border-radius: .5rem;
 }
