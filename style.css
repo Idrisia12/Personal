@@ -279,45 +279,16 @@ img{
 .skills__icon{
   font-size: 2rem;
   margin-right: var(--mb-2);
-  color: var(--first-color);
+  /*color: var(--first-color);*/
 }
 .skills__names{
   display: flex;
   align-items: center;
 }
-/*.skills__bar{
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  background-color: var(--first-color);
-  height: .25rem;
-  border-radius: .5rem;
-  z-index: var(--z-back);
+
+.bxl-html5{
+  color: #f06529;
 }
-.skills__html{
-  width: 95%;
-}
-.skills__css{
-  width: 85%;
-}
-.skills__js{
-  width: 65%;
-}
-.skills__git{
-  width: 50%;
-}
-.skills_code{
-  width: 75%;
-}
-.skills_paint{
-   width: 55%;
-}
-.skills_laptop{
-   width: 50%;
-}
-/*.skills__img{
-  border-radius: .5rem;
-}*/
 
 /* ===== WORK =====*/
 .work__container{
