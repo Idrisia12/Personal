@@ -298,6 +298,11 @@ img{
   color: #F0DB4F;
 }
 
+.fa-paint-brush{
+  background-color: dodgerblue;
+  color: white;
+}
+
 /* ===== WORK =====*/
 .work__container{
   row-gap: 2rem;
