@@ -315,9 +315,9 @@ img{
 .skills_laptop{
    width: 50%;
 }
-.skills__img{
+/*.skills__img{
   border-radius: .5rem;
-}
+}*/
 
 /* ===== WORK =====*/
 .work__container{
