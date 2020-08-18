@@ -299,8 +299,15 @@ img{
 }
 
 .fa-paint-brush{
-  background-color: dodgerblue;
-  color: white;
+  color: dodgerblue;
+}
+
+.fa-laptop{
+   color: dodgerblue;
+}
+
+.fa-code{
+   color: blue;
 }
 
 /* ===== WORK =====*/
