@@ -290,6 +290,14 @@ img{
   color: #f06529;
 }
 
+.bxl-css3{
+    color: #2965f1;
+}
+
+.bxl-javascript{
+  color: #F0DB4F;
+}
+
 /* ===== WORK =====*/
 .work__container{
   row-gap: 2rem;
